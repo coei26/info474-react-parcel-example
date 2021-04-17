@@ -1,1 +1,1 @@
-# info474-react-parcel-starter
+# info474-react-parcel-example
